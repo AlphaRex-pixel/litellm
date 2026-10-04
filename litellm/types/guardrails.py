@@ -138,6 +138,7 @@ class SupportedGuardrailIntegrations(Enum):
     STRAIKER = "straiker"
     ALICE = "alice"
     CONDUCT = "conduct"
+    TEALTIGER = "tealtiger"
 
 
 class Role(Enum):
